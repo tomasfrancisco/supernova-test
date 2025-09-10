@@ -1,0 +1,15 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "string": {
+    "typography": {
+      "font-family-brand-primary": {
+        "value": "{fontFamily.typography.font-family.font-family-inter}",
+        "type": "string"
+      },
+      "font-family-brand-mono": {
+        "value": "{fontFamily.typography.font-family.font-family-source-code-pro}",
+        "type": "string"
+      }
+    }
+  }
+}

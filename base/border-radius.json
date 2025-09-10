@@ -1,0 +1,51 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "border-radius": {
+    "radius": {
+      "radius-100": {
+        "value": "2px",
+        "type": "borderRadius"
+      },
+      "radius-200": {
+        "value": "4px",
+        "type": "borderRadius"
+      },
+      "radius-300": {
+        "value": "8px",
+        "type": "borderRadius"
+      },
+      "radius-400": {
+        "value": "12px",
+        "type": "borderRadius"
+      },
+      "radius-500": {
+        "value": "16px",
+        "type": "borderRadius"
+      },
+      "radius-full": {
+        "value": "9999px",
+        "type": "borderRadius"
+      }
+    },
+    "button": {
+      "radius-button": {
+        "value": "{dimension.shape.radius-button-default}",
+        "type": "borderRadius"
+      },
+      "radius-button-focus-ring": {
+        "value": "{dimension.shape.radius-focus-ring-default}",
+        "type": "borderRadius"
+      }
+    },
+    "radio": {
+      "radius-radio": {
+        "value": "{dimension.shape.radius-button-default}",
+        "type": "borderRadius"
+      },
+      "radius-radio-focus-ring": {
+        "value": "{dimension.shape.radius-focus-ring-default}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}
