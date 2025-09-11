@@ -1,0 +1,65 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "spectrum": {
+    "font-size-50": {
+      "value": "11px",
+      "type": "fontSize"
+    },
+    "font-size-75": {
+      "value": "12px",
+      "type": "fontSize"
+    },
+    "font-size-100": {
+      "value": "14px",
+      "type": "fontSize"
+    },
+    "font-size-200": {
+      "value": "16px",
+      "type": "fontSize"
+    },
+    "font-size-300": {
+      "value": "18px",
+      "type": "fontSize"
+    },
+    "font-size-400": {
+      "value": "20px",
+      "type": "fontSize"
+    },
+    "font-size-500": {
+      "value": "22px",
+      "type": "fontSize"
+    },
+    "font-size-600": {
+      "value": "25px",
+      "type": "fontSize"
+    },
+    "font-size-700": {
+      "value": "28px",
+      "type": "fontSize"
+    },
+    "font-size-800": {
+      "value": "32px",
+      "type": "fontSize"
+    },
+    "font-size-900": {
+      "value": "36px",
+      "type": "fontSize"
+    },
+    "font-size-1000": {
+      "value": "40px",
+      "type": "fontSize"
+    },
+    "font-size-1100": {
+      "value": "45px",
+      "type": "fontSize"
+    },
+    "font-size-1200": {
+      "value": "50px",
+      "type": "fontSize"
+    },
+    "font-size-1300": {
+      "value": "60px",
+      "type": "fontSize"
+    }
+  }
+}
