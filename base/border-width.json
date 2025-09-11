@@ -1,45 +1,37 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "border-width": {
-    "border-width": {
-      "border-width-50": {
-        "value": "0.5px",
-        "type": "borderWidth"
-      },
-      "border-width-100": {
-        "value": "1px",
-        "type": "borderWidth"
-      },
-      "border-width-200": {
-        "value": "2px",
-        "type": "borderWidth"
-      },
-      "border-width-300": {
-        "value": "3px",
-        "type": "borderWidth"
-      },
-      "border-width-400": {
-        "value": "4px",
-        "type": "borderWidth"
-      }
+  "spectrum": {
+    "border-width-50": {
+      "value": "0.5px",
+      "type": "borderWidth"
     },
-    "global": {
-      "border-width-focus-ring": {
-        "value": "{dimension.border.border-width-bold}",
-        "type": "borderWidth"
-      }
+    "border-width-100": {
+      "value": "1px",
+      "type": "borderWidth"
     },
-    "button": {
-      "border-width-button": {
-        "value": "{dimension.border.border-width-regular}",
-        "type": "borderWidth"
-      }
+    "border-width-200": {
+      "value": "2px",
+      "type": "borderWidth"
     },
-    "radio": {
-      "border-width-radio": {
-        "value": "{dimension.border.border-width-regular}",
-        "type": "borderWidth"
-      }
+    "border-width-300": {
+      "value": "3px",
+      "type": "borderWidth"
+    },
+    "border-width-400": {
+      "value": "4px",
+      "type": "borderWidth"
+    },
+    "border-width-focus-ring": {
+      "value": "{spectrum.border-width-bold}",
+      "type": "borderWidth"
+    },
+    "border-width-button": {
+      "value": "{spectrum.border-width-regular}",
+      "type": "borderWidth"
+    },
+    "border-width-radio": {
+      "value": "{spectrum.border-width-regular}",
+      "type": "borderWidth"
     }
   }
 }

@@ -1,25 +1,21 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "font-family": {
-    "typography": {
-      "font-family": {
-        "font-family-inter": {
-          "value": "Inter",
-          "type": "fontFamily"
-        },
-        "font-family-open-sans": {
-          "value": "Open Sans",
-          "type": "fontFamily"
-        },
-        "font-family-noto-sans-cjk": {
-          "value": "Noto Sans CJK",
-          "type": "fontFamily"
-        },
-        "font-family-source-code-pro": {
-          "value": "Source Code Pro",
-          "type": "fontFamily"
-        }
-      }
+  "spectrum": {
+    "font-family-inter": {
+      "value": "Inter",
+      "type": "fontFamily"
+    },
+    "font-family-open-sans": {
+      "value": "Open Sans",
+      "type": "fontFamily"
+    },
+    "font-family-noto-sans-cjk": {
+      "value": "Noto Sans CJK",
+      "type": "fontFamily"
+    },
+    "font-family-source-code-pro": {
+      "value": "Source Code Pro",
+      "type": "fontFamily"
     }
   }
 }

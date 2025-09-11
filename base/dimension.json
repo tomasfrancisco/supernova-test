@@ -1,209 +1,193 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "dimension": {
-    "spacing-system": {
-      "1": {
-        "value": "16px",
-        "type": "dimension"
-      },
-      "0-125": {
-        "value": "2px",
-        "type": "dimension"
-      },
-      "0-25": {
-        "value": "4px",
-        "type": "dimension"
-      },
-      "0-5": {
-        "value": "8px",
-        "type": "dimension"
-      },
-      "1-5": {
-        "value": "24px",
-        "type": "dimension"
-      },
-      "2-0": {
-        "value": "32px",
-        "type": "dimension"
-      },
-      "3-0": {
-        "value": "48px",
-        "type": "dimension"
-      },
-      "4-0": {
-        "value": "64px",
-        "type": "dimension"
-      },
-      "6-0": {
-        "value": "96px",
-        "type": "dimension"
-      }
+  "spectrum": {
+    "1": {
+      "value": "16px",
+      "type": "dimension"
     },
-    "spacing": {
-      "spacing-50": {
-        "value": "2px",
-        "type": "dimension"
-      },
-      "spacing-75": {
-        "value": "4px",
-        "type": "dimension"
-      },
-      "spacing-100": {
-        "value": "8px",
-        "type": "dimension"
-      },
-      "spacing-200": {
-        "value": "12px",
-        "type": "dimension"
-      },
-      "spacing-300": {
-        "value": "16px",
-        "type": "dimension"
-      },
-      "spacing-400": {
-        "value": "24px",
-        "type": "dimension"
-      },
-      "spacing-500": {
-        "value": "32px",
-        "type": "dimension"
-      },
-      "spacing-600": {
-        "value": "40px",
-        "type": "dimension"
-      },
-      "spacing-700": {
-        "value": "48px",
-        "type": "dimension"
-      },
-      "spacing-800": {
-        "value": "64px",
-        "type": "dimension"
-      },
-      "spacing-900": {
-        "value": "80px",
-        "type": "dimension"
-      },
-      "spacing-1000": {
-        "value": "96px",
-        "type": "dimension"
-      },
-      "spacing-xxxs-2": {
-        "value": "{dimension.spacing.spacing-75}",
-        "type": "dimension"
-      }
+    "0-125": {
+      "value": "2px",
+      "type": "dimension"
     },
-    "typography": {
-      "font-weight": {
-        "font-weight-regular": {
-          "value": "400px",
-          "type": "dimension"
-        },
-        "font-weight-medium": {
-          "value": "500px",
-          "type": "dimension"
-        },
-        "font-weight-bold": {
-          "value": "600px",
-          "type": "dimension"
-        },
-        "font-weight-black": {
-          "value": "700px",
-          "type": "dimension"
-        }
-      }
+    "0-25": {
+      "value": "4px",
+      "type": "dimension"
     },
-    "spacings": {
-      "granite-spacing-base-rem": {
-        "value": "{dimension.spacing-system.1}",
-        "type": "dimension"
-      },
-      "granite-spacing-96": {
-        "value": "{dimension.spacing-system.6-0}",
-        "type": "dimension"
-      },
-      "granite-spacing-64": {
-        "value": "{dimension.spacing-system.4-0}",
-        "type": "dimension"
-      },
-      "granite-spacing-48": {
-        "value": "{dimension.spacing-system.3-0}",
-        "type": "dimension"
-      },
-      "granite-spacing-32": {
-        "value": "{dimension.spacing-system.2-0}",
-        "type": "dimension"
-      },
-      "granite-spacing-24": {
-        "value": "{dimension.spacing-system.1-5}",
-        "type": "dimension"
-      },
-      "granite-spacing-16": {
-        "value": "{dimension.spacing-system.1}",
-        "type": "dimension"
-      },
-      "granite-spacing-8": {
-        "value": "{dimension.spacing-system.0-5}",
-        "type": "dimension"
-      },
-      "granite-spacing-4": {
-        "value": "{dimension.spacing-system.0-25}",
-        "type": "dimension"
-      }
+    "0-5": {
+      "value": "8px",
+      "type": "dimension"
     },
-    "radius": {
-      "granite-radius-l": {
-        "value": "{dimension.spacing-system.1}",
-        "type": "dimension"
-      },
-      "granite-radius-m": {
-        "value": "{dimension.spacing-system.0-5}",
-        "type": "dimension"
-      },
-      "granite-radius-s": {
-        "value": "{dimension.spacing-system.0-25}",
-        "type": "dimension"
-      }
+    "1-5": {
+      "value": "24px",
+      "type": "dimension"
     },
-    "border": {
-      "border-width-hairline": {
-        "value": "{borderWidth.border-width.border-width-50}",
-        "type": "dimension"
-      },
-      "border-width-regular": {
-        "value": "{borderWidth.border-width.border-width-100}",
-        "type": "dimension"
-      },
-      "border-width-bold": {
-        "value": "{borderWidth.border-width.border-width-200}",
-        "type": "dimension"
-      },
-      "border-width-heavy": {
-        "value": "{borderWidth.border-width.border-width-300}",
-        "type": "dimension"
-      },
-      "border-width-extra": {
-        "value": "{borderWidth.border-width.border-width-400}",
-        "type": "dimension"
-      }
+    "2-0": {
+      "value": "32px",
+      "type": "dimension"
     },
-    "shape": {
-      "radius-button-rounded": {
-        "value": "{borderRadius.radius.radius-full}",
-        "type": "dimension"
-      },
-      "radius-focus-ring-rounded": {
-        "value": "{borderRadius.radius.radius-full}",
-        "type": "dimension"
-      },
-      "radius-button-default": {
-        "value": "{borderRadius.radius.radius-200}",
-        "type": "dimension"
-      },
-      "radius-focus-ring-default": {
-        "value": "{borderRadius.radius.radius-300}",
-        "type": "dimension"
-      }
+    "3-0": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "4-0": {
+      "value": "64px",
+      "type": "dimension"
+    },
+    "6-0": {
+      "value": "96px",
+      "type": "dimension"
+    },
+    "spacing-50": {
+      "value": "2px",
+      "type": "dimension"
+    },
+    "spacing-75": {
+      "value": "4px",
+      "type": "dimension"
+    },
+    "spacing-100": {
+      "value": "8px",
+      "type": "dimension"
+    },
+    "spacing-200": {
+      "value": "12px",
+      "type": "dimension"
+    },
+    "spacing-300": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "spacing-400": {
+      "value": "24px",
+      "type": "dimension"
+    },
+    "spacing-500": {
+      "value": "32px",
+      "type": "dimension"
+    },
+    "spacing-600": {
+      "value": "40px",
+      "type": "dimension"
+    },
+    "spacing-700": {
+      "value": "48px",
+      "type": "dimension"
+    },
+    "spacing-800": {
+      "value": "64px",
+      "type": "dimension"
+    },
+    "spacing-900": {
+      "value": "80px",
+      "type": "dimension"
+    },
+    "spacing-1000": {
+      "value": "96px",
+      "type": "dimension"
+    },
+    "font-weight-regular": {
+      "value": "400px",
+      "type": "dimension"
+    },
+    "font-weight-medium": {
+      "value": "500px",
+      "type": "dimension"
+    },
+    "font-weight-bold": {
+      "value": "600px",
+      "type": "dimension"
+    },
+    "font-weight-black": {
+      "value": "700px",
+      "type": "dimension"
+    },
+    "granite-spacing-base-rem": {
+      "value": "{spectrum.1}",
+      "type": "dimension"
+    },
+    "granite-spacing-96": {
+      "value": "{spectrum.6-0}",
+      "type": "dimension"
+    },
+    "granite-spacing-64": {
+      "value": "{spectrum.4-0}",
+      "type": "dimension"
+    },
+    "granite-spacing-48": {
+      "value": "{spectrum.3-0}",
+      "type": "dimension"
+    },
+    "granite-spacing-32": {
+      "value": "{spectrum.2-0}",
+      "type": "dimension"
+    },
+    "granite-spacing-24": {
+      "value": "{spectrum.1-5}",
+      "type": "dimension"
+    },
+    "granite-spacing-16": {
+      "value": "{spectrum.1}",
+      "type": "dimension"
+    },
+    "granite-spacing-8": {
+      "value": "{spectrum.0-5}",
+      "type": "dimension"
+    },
+    "granite-spacing-4": {
+      "value": "{spectrum.0-25}",
+      "type": "dimension"
+    },
+    "granite-radius-l": {
+      "value": "{spectrum.1}",
+      "type": "dimension"
+    },
+    "granite-radius-m": {
+      "value": "{spectrum.0-5}",
+      "type": "dimension"
+    },
+    "granite-radius-s": {
+      "value": "{spectrum.0-25}",
+      "type": "dimension"
+    },
+    "border-width-hairline": {
+      "value": "{spectrum.border-width-50}",
+      "type": "dimension"
+    },
+    "border-width-regular": {
+      "value": "{spectrum.border-width-100}",
+      "type": "dimension"
+    },
+    "border-width-bold": {
+      "value": "{spectrum.border-width-200}",
+      "type": "dimension"
+    },
+    "border-width-heavy": {
+      "value": "{spectrum.border-width-300}",
+      "type": "dimension"
+    },
+    "border-width-extra": {
+      "value": "{spectrum.border-width-400}",
+      "type": "dimension"
+    },
+    "radius-button-rounded": {
+      "value": "{spectrum.radius-full}",
+      "type": "dimension"
+    },
+    "radius-focus-ring-rounded": {
+      "value": "{spectrum.radius-full}",
+      "type": "dimension"
+    },
+    "spacing-xxxs-2": {
+      "value": "{spectrum.spacing-75}",
+      "type": "dimension"
+    },
+    "radius-button-default": {
+      "value": "{spectrum.radius-200}",
+      "type": "dimension"
+    },
+    "radius-focus-ring-default": {
+      "value": "{spectrum.radius-300}",
+      "type": "dimension"
     }
   }
 }

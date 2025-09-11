@@ -1,89 +1,79 @@
 {
   "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
-  "typography": {
-    "typography": {
-      "display-large": {
-        "value": "700 40px/100% Open Sans",
-        "type": "typography"
-      }
+  "spectrum": {
+    "display-large": {
+      "value": "700 40px/100% Open Sans",
+      "type": "typography"
     },
-    "heading": {
-      "heading-xl": {
-        "value": "600 {fontSize.typography.font-size.font-size-900}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Page titles / hero"
-      },
-      "heading-lg": {
-        "value": "600 {fontSize.typography.font-size.font-size-700}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Section titles"
-      },
-      "heading-md": {
-        "value": "600 {fontSize.typography.font-size.font-size-500}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Subsection titles"
-      },
-      "heading-sm": {
-        "value": "600 {fontSize.typography.font-size.font-size-300}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Small headings / labels"
-      }
+    "heading-xl": {
+      "value": "600 {spectrum.font-size-900}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Page titles / hero"
     },
-    "body": {
-      "body-lg": {
-        "value": "400 {fontSize.typography.font-size.font-size-400}/150% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Reading-heavy screens"
-      },
-      "body-md": {
-        "value": "400 {fontSize.typography.font-size.font-size-200}/150% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Default body"
-      },
-      "body-sm": {
-        "value": "400 {fontSize.typography.font-size.font-size-100}/150% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Dense UIs, secondary info"
-      }
+    "heading-lg": {
+      "value": "600 {spectrum.font-size-700}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Section titles"
     },
-    "label": {
-      "label-lg": {
-        "value": "600 {fontSize.typography.font-size.font-size-200}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Prominent field labels"
-      },
-      "label-md": {
-        "value": "600 {fontSize.typography.font-size.font-size-100}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Default field labels"
-      },
-      "label-sm": {
-        "value": "600 {fontSize.typography.font-size.font-size-75}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Small inputs, table headers"
-      }
+    "heading-md": {
+      "value": "600 {spectrum.font-size-500}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Subsection titles"
     },
-    "utility": {
-      "caption": {
-        "value": "400 {fontSize.typography.font-size.font-size-75}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Captions, helper text"
-      },
-      "overline": {
-        "value": "600 {fontSize.typography.font-size.font-size-75}/130% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "All caps section headers"
-      },
-      "code": {
-        "value": "400 {fontSize.typography.font-size.font-size-100}/150% {string.typography.font-family-brand-mono}",
-        "type": "typography",
-        "description": "Monospace font family"
-      },
-      "placeholder": {
-        "value": "{fontWeight.typography.font-style.font-style-italic} {fontSize.typography.font-size.font-size-100}/150% {string.typography.font-family-brand-primary}",
-        "type": "typography",
-        "description": "Italic or lighter weight"
-      }
+    "heading-sm": {
+      "value": "600 {spectrum.font-size-300}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Small headings / labels"
+    },
+    "body-lg": {
+      "value": "400 {spectrum.font-size-400}/150% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Reading-heavy screens"
+    },
+    "body-md": {
+      "value": "400 {spectrum.font-size-200}/150% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Default body"
+    },
+    "body-sm": {
+      "value": "400 {spectrum.font-size-100}/150% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Dense UIs, secondary info"
+    },
+    "label-lg": {
+      "value": "600 {spectrum.font-size-200}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Prominent field labels"
+    },
+    "label-md": {
+      "value": "600 {spectrum.font-size-100}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Default field labels"
+    },
+    "label-sm": {
+      "value": "600 {spectrum.font-size-75}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Small inputs, table headers"
+    },
+    "caption": {
+      "value": "400 {spectrum.font-size-75}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Captions, helper text"
+    },
+    "overline": {
+      "value": "600 {spectrum.font-size-75}/130% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "All caps section headers"
+    },
+    "code": {
+      "value": "400 {spectrum.font-size-100}/150% {spectrum.font-family-brand-mono}",
+      "type": "typography",
+      "description": "Monospace font family"
+    },
+    "placeholder": {
+      "value": "{spectrum.font-style-italic} {spectrum.font-size-100}/150% {spectrum.font-family-brand-primary}",
+      "type": "typography",
+      "description": "Italic or lighter weight"
     }
   }
 }
