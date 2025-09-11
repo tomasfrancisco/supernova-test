@@ -3,7 +3,6 @@
   "platforms": {
     "css": {
       "transformGroup": "css",
-      "prefix": "spectrum",
       "buildPath": "build/css/",
       "files": [
         {
