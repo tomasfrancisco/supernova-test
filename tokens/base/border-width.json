@@ -25,12 +25,16 @@
       "value": "{spectrum.border-width-bold}",
       "type": "borderWidth"
     },
-    "border-width-button": {
+    "border-width": {
       "value": "{spectrum.border-width-regular}",
       "type": "borderWidth"
     },
     "border-width-radio": {
       "value": "{spectrum.border-width-regular}",
+      "type": "borderWidth"
+    },
+    "border-width-checkbox": {
+      "value": "{spectrum.border-width-bold}",
       "type": "borderWidth"
     }
   }

@@ -25,20 +25,28 @@
       "value": "9999px",
       "type": "borderRadius"
     },
-    "radius-button": {
-      "value": "{spectrum.radius-button-default}",
+    "radius-600": {
+      "value": "24px",
       "type": "borderRadius"
     },
-    "radius-button-focus-ring": {
-      "value": "{spectrum.radius-focus-ring-default}",
+    "radius": {
+      "value": "{spectrum.radius-control}",
+      "type": "borderRadius"
+    },
+    "radius-focus-ring": {
+      "value": "{spectrum.radius-control-focus}",
       "type": "borderRadius"
     },
     "radius-radio": {
-      "value": "{spectrum.radius-button-default}",
+      "value": "{spectrum.radius-control}",
       "type": "borderRadius"
     },
     "radius-radio-focus-ring": {
-      "value": "{spectrum.radius-focus-ring-default}",
+      "value": "{spectrum.radius-control-focus}",
+      "type": "borderRadius"
+    },
+    "radius-checkbox": {
+      "value": "{spectrum.radius-control}",
       "type": "borderRadius"
     }
   }
